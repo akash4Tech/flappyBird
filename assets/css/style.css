@@ -33,22 +33,24 @@ b {
   background: #0f5809;
 }
 
-.gameDetail {
-  display: grid;
-  text-align: center;
-  padding: 1rem 2rem;
-  line-height: 2.5rem;
-  background: linear-gradient(168deg, #000, #70c86e);
-  box-shadow: 0 0 8rem 2rem rgba(126, 255, 90, 0.5);
-  border-radius: 0 0 20rem 20rem;
-  color: #b2ffba;
-  z-index: 100;
-}
+/* .gameDetail { */
+  /* display: grid; */
+  /* text-align: center; */
+  /* padding: 1rem 2rem; */
+  /* line-height: 2.5rem; */
+  /* background: linear-gradient(168deg, #000, #70c86e); */
+  /* box-shadow: 0 0 8rem 2rem rgba(126, 255, 90, 0.5); */
+  /* border-radius: 0 0 20rem 20rem; */
+  /* color: #b2ffba; */
+  /* z-index: 100; */
+/* } */
 
 #canvas {
-  margin-top: 5rem;
+  /* margin-top: 5rem; */
   width: 360px;
   height: 660px;
   box-shadow: 0 0 8rem 2rem rgba(126, 255, 90, 0.5);
   border: 2px double #1c291c;
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */
